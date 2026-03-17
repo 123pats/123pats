@@ -9,6 +9,6 @@ Future Roles: Web Developer, Full-stack Development.
 - 🔭 I’m currently working on gaining skills in Web Development so that I can make a career change into something I'm passionate about.
 - 🌱 I’m currently learning Web Development on Udemy. So far, I'm just starting out and working with HTML & CSS. Soon onto Flexbox, Bootstrap, and then into JS.
 - 👯 I’m looking to collaborate on any Web Development projects as I gain more knowledge on the topic.
-- 📫 How to reach me: You can reach me on Instagram (123pats).
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 
