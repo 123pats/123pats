@@ -20,11 +20,11 @@ I'm a Cloud Computing student and backend focused developer with a growing found
 - Writing clean, maintainable backend code
 - Learning how to design and deploy scalable systems
 
-🤝 Collaboration
+## 🤝 Collaboration
 
 I'm open to collaborating on backend or cloud-based projects, especially anything involving AWS or automation.
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/welsh-kevin
 
