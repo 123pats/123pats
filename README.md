@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋
 
-I'm Kevin 👋
+My name is Kevin. 
 
 I'm a Cloud Computing student and backend focused developer with a growing foundation in AWS, Python, and systems level thinking. My focus is on building real world, production style projects that combine backend development with cloud infrastructure.
 
