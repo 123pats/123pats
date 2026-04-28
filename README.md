@@ -1,14 +1,33 @@
 ### Hello Everyone! 👋
 
-My name is Kevin Welsh and I'm from the east coast of the United States. I'm currently studying Software Engineering & Security but have found myself being more drawn towards my Web Development class on Udemy.
+I'm Kevin 👋
 
-Even though I just started learning Web Development, the process has been exciting. I'm looking forward to learning more as my journey continues and will update my README throughout the process.
+I'm a Cloud Computing student and backend focused developer with a growing foundation in AWS, Python, and systems level thinking. My focus is on building real world, production style projects that combine backend development with cloud infrastructure.
 
-Future Roles: Web Developer, Full-stack Development.
+🚀 Current Focus
 
-- 🔭 I’m currently working on gaining skills in Web Development so that I can make a career change into something I'm passionate about.
-- 🌱 I’m currently learning Web Development on Udemy. So far, I'm just starting out and working with HTML & CSS. Soon onto Flexbox, Bootstrap, and then into JS.
-- 👯 I’m looking to collaborate on any Web Development projects as I gain more knowledge on the topic.
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Him
+Building cloud-based projects using AWS
+Strengthening backend development skills with Python
+Completing the Cloud Resume Challenge
+Expanding knowledge in DevOps and automation
+
+🎯 Career Goals
+
+Cloud Engineer
+Cloud Solutions Architect
+Backend Developer
+
+🧠 What I'm Working On
+
+Applying AWS services (IAM, S3, Lambda, CloudFront, DynamoDB)
+Writing clean, maintainable backend code
+Learning how to design and deploy scalable systems
+
+🤝 Collaboration
+
+I'm open to collaborating on backend or cloud-based projects, especially anything involving AWS or automation.
+
+📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/welsh-kevin
 
